@@ -1,0 +1,17 @@
+{"data":[
+    {
+        "name":"Abhishek",
+        "level":"Basic"
+    },{
+        "name":"Raja","level":"Basic"
+    },{
+        "name":"Tarun",
+        "level":"Intermediate"
+    },{
+        "name":"Mohan","level":"Intermediate"
+    },
+    {
+        "name":"Mohan",
+        "level":"Advanced"
+    }
+]}
